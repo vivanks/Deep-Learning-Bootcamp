@@ -10,6 +10,8 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 
 ### Introduction to Neural Networks
 
+#### For the notes of this section visit [INTRODUCTION TO NEURAL NETWORKS](https://vivanks.github.io/Deep-Learning-Notes/)
+
 * [Introduction to Neural Networks](https://github.com/vivanks/deep-learning-bootcamp/tree/master/intro-neural-networks): Learn how to implement gradient descent and apply it to predicting patterns in student admissions data.
 * [Sentiment Analysis with NumPy](https://github.com/vivanks/deep-learning-bootcamp/tree/master/sentiment-analysis-network): [Andrew Trask](http://iamtrask.github.io/) leads you through building a sentiment analysis model, predicting if some text is positive or negative.
 * [Introduction to PyTorch](https://github.com/vivanks/deep-learning-bootcamp/tree/master/intro-to-pytorch): Learn how to build neural networks in PyTorch and use pre-trained networks for state-of-the-art image classifiers.
