@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
+    print("Hello")
     return redirect("https://ds.archive.codes", code=302)
 
 if __name__ == '__main__':
