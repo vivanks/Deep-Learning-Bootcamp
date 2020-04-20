@@ -1,0 +1,4 @@
+language: python            # this works for Linux but is an error on macOS or Windows
+
+
+script: python3 app.py || python app.py
